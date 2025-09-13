@@ -1,11 +1,32 @@
 body {
     font-family: sans-serif;
-    background: linear-gradient(to bottom, #800080, #000000);
-    min-height: 200vh;
+    background: linear-gradient(to bottom, #0f2027, #2c5364, #00b4d8);
+    min-height: 100vh;
     margin: 0;
+    color: #ffffff; /* Makes all body text white */
+    text-align: center;
 }
 
 .welcome {
     color: white;
     text-align: center;
+}
+
+.currentWeather, .forecast {
+    text-align: left;
+    border-radius: 10px;
+    border: 1px solid white;
+    display: inline-block;
+    padding: 10px 20px 10px 20px;
+    margin-left: 20px;
+    max-width: 30%;
+    min-height: 220px;
+    height: 100%;
+}
+
+.weather-cards {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    align-items: flex-start;
 }
