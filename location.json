@@ -1,0 +1,31 @@
+{
+  "weather_stations": [
+    {"place": "Wan Chai", "latitude": 22.2889, "longitude": 114.1748},
+    {"place": "Yuen Long Park", "latitude": 22.4409, "longitude": 114.0194},
+    {"place": "Yau Tsim Mong", "latitude": 22.3116, "longitude": 114.1707},
+    {"place": "Sham Shui Po", "latitude": 22.3358, "longitude": 114.1625},
+    {"place": "Kowloon City", "latitude": 22.3217, "longitude": 114.1914},
+    {"place": "Wong Tai Sin", "latitude": 22.3406, "longitude": 114.1972},
+    {"place": "Kwun Tong", "latitude": 22.3133, "longitude": 114.2243},
+    {"place": "King's Park", "latitude": 22.3167, "longitude": 114.1717},
+    {"place": "Hong Kong Observatory", "latitude": 22.3022, "longitude": 114.1746},
+    {"place": "Wong Chuk Hang", "latitude": 22.2464, "longitude": 114.1739},
+    {"place": "Ta Kwu Ling", "latitude": 22.5353, "longitude": 114.1786},
+    {"place": "Lau Fau Shan", "latitude": 22.4809, "longitude": 113.9877},
+    {"place": "Tai Po", "latitude": 22.4495, "longitude": 114.1690},
+    {"place": "Sha Tin", "latitude": 22.3797, "longitude": 114.1905},
+    {"place": "Tuen Mun", "latitude": 22.3897, "longitude": 113.9734},
+    {"place": "Tseung Kwan O", "latitude": 22.3061, "longitude": 114.2624},
+    {"place": "Sai Kung", "latitude": 22.3893, "longitude": 114.2736},
+    {"place": "Cheung Chau", "latitude": 22.2065, "longitude": 114.0271},
+    {"place": "Chek Lap Kok", "latitude": 22.3134, "longitude": 113.9431},
+    {"place": "Tsing Yi", "latitude": 22.3485, "longitude": 114.1051},
+    {"place": "Tsuen Wan Shing Mun Valley", "latitude": 22.3841, "longitude": 114.1205},
+    {"place": "Hong Kong Park", "latitude": 22.2768, "longitude": 114.1622},
+    {"place": "Shau Kei Wan", "latitude": 22.2839, "longitude": 114.2221},
+    {"place": "Happy Valley", "latitude": 22.2691, "longitude": 114.1863},
+    {"place": "Stanley", "latitude": 22.2177, "longitude": 114.2132},
+    {"place": "Kai Tak Runway Park", "latitude": 22.315, "longitude": 114.214},
+    {"place": "Tai Mei Tuk", "latitude": 22.5244, "longitude": 114.2302}
+  ]
+}

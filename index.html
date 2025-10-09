@@ -4,9 +4,37 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Weather Reimagined HK</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="src/styles/body.css">
+    <link rel="stylesheet" href="src/styles/location-bar.css">
+    
 </head>
 <body>
-    <h1 class="welcome">Welcome to Weather Reimagined HK!</h1>
+    <div class="nav-bar">
+        <div class="location-bar">
+            <div class="location-pin">
+                <p>📍</p>
+            </div>
+            <div class="location-value">
+                <p>Hong Kong SAR, China</p>
+                
+            </div>
+            <div class="location-wrong">
+                <p>Report a problem</p>
+            </div>
+        </div>
+        <div class="search-bar">
+            <input type="text" placeholder="Search for a weather phenomenon">
+        </div>
+        <div class="temp-bar">
+            <p id="temp">22°C</p>
+        </div>
+    </div>
+    <div class="title-bar">
+        <h2>Welcome to</h2>
+        <h1>Weather Reimagined HK</h1>
+    </div>
+
+    <pre id="result"></pre>
+    <script src="location.js"></script>
 </body>
 </html>
